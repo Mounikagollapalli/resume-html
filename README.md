@@ -1,2 +1,2 @@
 # resume-html
-A personal resume webpage created using HTML &amp; CSS
+A personal resume webpage created using HTML.
